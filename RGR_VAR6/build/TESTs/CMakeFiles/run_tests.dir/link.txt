@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra CMakeFiles/run_tests.dir/run_tests.c.o CMakeFiles/run_tests.dir/test_cezar.c.o -o run_tests  -Wl,-rpath,/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/CEZAR ../CEZAR/libcezar_library.so 

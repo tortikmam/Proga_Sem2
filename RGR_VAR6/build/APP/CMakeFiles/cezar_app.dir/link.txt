@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra CMakeFiles/cezar_app.dir/main.c.o -o cezar_app  -Wl,-rpath,/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/CEZAR ../CEZAR/libcezar_library.so 

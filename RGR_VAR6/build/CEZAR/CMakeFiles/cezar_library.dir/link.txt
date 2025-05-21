@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -Wall -Wextra -shared -Wl,-soname,libcezar_library.so -o libcezar_library.so CMakeFiles/cezar_library.dir/CEZAR.c.o 

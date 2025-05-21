@@ -1,0 +1,15 @@
+/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/CMakeFiles/test.dir
+/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/CEZAR/CMakeFiles/cezar_library.dir
+/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/CEZAR/CMakeFiles/test.dir
+/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/CEZAR/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/CEZAR/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/APP/CMakeFiles/cezar_app.dir
+/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/APP/CMakeFiles/test.dir
+/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/APP/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/APP/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/TESTs/CMakeFiles/run_tests.dir
+/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/TESTs/CMakeFiles/test.dir
+/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/TESTs/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Vladimir/Desktop/ДляПрограмм/Программирование/RGZ/studing/C_programming_2_semestr!/RGR_VAR6/build/TESTs/CMakeFiles/rebuild_cache.dir
